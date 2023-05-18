@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\bin\Debug\세미나 과제(2)_2.exe.config
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\bin\Debug\세미나 과제(2)_2.exe
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\bin\Debug\세미나 과제(2)_2.pdb
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나_과제_2__2.Form1.resources
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나_과제_2__2.Properties.Resources.resources
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나 과제(2)_2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나 과제(2)_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나 과제(2)_2.exe
+C:\Users\user\source\repos\세미나 과제(2)_2\세미나 과제(2)_2\obj\Debug\세미나 과제(2)_2.pdb
