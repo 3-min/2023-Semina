@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\삭제\삭제\bin\Debug\삭제.exe.config
+C:\Users\user\source\repos\삭제\삭제\bin\Debug\삭제.exe
+C:\Users\user\source\repos\삭제\삭제\bin\Debug\삭제.pdb
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.Form1.resources
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.Properties.Resources.resources
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.csproj.GenerateResource.cache
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.exe
+C:\Users\user\source\repos\삭제\삭제\obj\Debug\삭제.pdb
